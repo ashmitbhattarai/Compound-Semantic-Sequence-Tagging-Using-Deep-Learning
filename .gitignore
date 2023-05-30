@@ -1,0 +1,6 @@
+glove.840B.300d-char.txt
+*__pycache__
+*.pyc
+.idea
+.git
+.DS_Store

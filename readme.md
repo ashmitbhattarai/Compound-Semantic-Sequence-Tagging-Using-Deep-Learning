@@ -1,4 +1,6 @@
-Deep Learning for Intent Classification and Information Extraction
+# Deep Learning for Intent Classification and Information Extraction
+
+- Ashmit Bhattarai, Macquire University, 2017, Application of Data Science
 
 ## Introduction
 
